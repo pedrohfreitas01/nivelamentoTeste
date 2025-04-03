@@ -1,0 +1,6 @@
+# Ignorar arquivos CSV
+*.csv
+
+# Ignorar pasta de relatórios (se tiver uma)
+/dados_cadastrais/
+/demonstracoes_contabeis/
